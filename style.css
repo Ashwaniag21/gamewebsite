@@ -146,7 +146,7 @@
             align-items: center;
             justify-content: center;
             flex-flow: column;
-            background-image: url(public/bg2@2x.png);     
+            background-image: url(bg2@2x.png);     
         }
         .imgon{
             position: absolute;
@@ -237,7 +237,7 @@
             align-items: center;
             justify-content: center;
             flex-flow: column;
-            background-image: url(public/group-96@2x.png);      
+            background-image: url(group-96@2x.png);      
         }
 
         .whyus {
@@ -253,7 +253,7 @@
             align-items: center;
             justify-content: center;
             flex-flow: column;
-            background-image: url(public/group-96@2x.png);      
+            background-image: url(group-96@2x.png);      
         }
 
         .footer {
@@ -264,7 +264,7 @@
             background-position: center;
             background-attachment: fixed;
             flex-flow: column;
-            background-image: url(public/mask-group@2x.png);   
+            background-image: url(mask-group@2x.png);   
         }
 
         .temp{
